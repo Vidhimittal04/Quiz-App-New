@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["New York", "London", "Paris", "Dublin"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+    "answer": "Leonardo Da Vinci"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Pt", "Hg"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "In which year did Christopher Columbus discover America?",
+    "options": ["1492", "1532", "1620", "1776"],
+    "answer": "1492"
+  }
+]
